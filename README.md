@@ -15,6 +15,6 @@
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
    <br>
-   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+   <img src="https://img.shields.io/badge/AWS-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
