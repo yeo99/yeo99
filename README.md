@@ -1,5 +1,9 @@
-<h3 align="center">🛠Tech Stack🛠</h3>
+<div align="center">
+   ![yeo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeo99&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent) 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeo99&layout=compact&theme=transparent)](https://github.com/yeo99)
+</div>
 
+<h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
