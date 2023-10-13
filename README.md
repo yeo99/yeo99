@@ -1,12 +1,4 @@
 <div align="center">
-    ## 🎓Education🎓
-    ### 정보보호학 전공
-    ### 멋쟁이 사자처럼 11기 대표
-
-
-
-
-
-  
-    ## 🛠Tech Stack🛠
+    **🛠Tech Stack🛠**<br>
+    <img src="https://img.shields.io/badge/F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
 </div>
