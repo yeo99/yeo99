@@ -1,5 +1,6 @@
-   ![yeo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeo99&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent) 
+<p align="center">
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeo99&layout=compact&theme=transparent)](https://github.com/yeo99)
+</p>
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
