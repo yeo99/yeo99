@@ -1,6 +1,5 @@
 <div align="center" style="text-align:center">
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeo99&layout=compact&theme=transparent)](https://github.com/yeo99)
-</div>
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
@@ -21,3 +20,5 @@
    <img src="https://img.shields.io/badge/AWS-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
+
+</div>
