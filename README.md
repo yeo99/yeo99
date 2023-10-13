@@ -1,8 +1,10 @@
 <div align="center">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeo99&layout=compact&theme=transparent)](https://github.com/yeo99)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeo99&layout=compact">
 </div>
 
-<h3 align="center">🛠Tech Stack🛠</h3>
+<br><br>
+
+<h3 align="center">💻Tech Stack💻</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -21,3 +23,27 @@
    <img src="https://img.shields.io/badge/AWS-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
+
+<br><br>
+
+<h3 align="center">🛠Tools🛠</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+   <img src="https://img.shields.io/badge/gitlab-%23181717?style=for-the-badge&logo=gitlab&logoColor=white">
+   <br>
+   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+   <br>
+   <img src="https://img.shields.io/badge/confluence-%23172BF4?style=for-the-badge&logo=confluence&logoColor=white">
+   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+</p>
+
+<br><br>
+
+<h3 align="center">📚Studying📚</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+</p>
+
+<br><br>
