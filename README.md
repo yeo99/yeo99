@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeo99&layout=compact&theme=transparent)](https://github.com/yeo99)
-</p>
+</div>
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
